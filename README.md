@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @squaretobehip
+- 👋 Hi, I’m @squaretobehip (Michael)
 - 👀 I’m interested in QA (both manual and automation)
 - 🌱 I’m currently learning a few languages (python, Java, Swift)
 - 💞️ I’m looking to collaborate on projects that I can test my UI automation skills on
